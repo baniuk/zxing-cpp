@@ -27,7 +27,8 @@
 #include <zxing/NotFoundException.h>
 #include <sstream>
 #include <cstdlib>
-
+#include <algorithm>
+ 
 using std::abs;
 using zxing::Ref;
 using zxing::BitMatrix;

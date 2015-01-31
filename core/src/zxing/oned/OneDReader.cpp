@@ -22,7 +22,8 @@
 #include <zxing/NotFoundException.h>
 #include <math.h>
 #include <limits.h>
-
+#include <algorithm>
+ 
 using std::vector;
 using zxing::Ref;
 using zxing::Result;
